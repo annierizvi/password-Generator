@@ -40,3 +40,17 @@ Include screenshots or a live link here if available.
 - Include options for excluding similar characters.
 - Implement password strength meter.
 - Ability to copy the password to clipboard with a single click.
+
+## Screenshots
+
+![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+![Alt text](image-3.png)
+![Alt text](image-4.png)
+![Alt text](image-5.png)
+
+- if password length is not between 8-128 characters
+  ![Alt text](image-6.png)
+- message displyed that password lentgh should be between 8-128 characters
+  ![Alt text](image-7.png)
