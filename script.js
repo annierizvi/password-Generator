@@ -110,8 +110,6 @@ var upperCasedCharacters = [
 // if yes generate a random character
 // if no generate no random chracters
 
-// generate Random password with
-
 // Function to prompt user for password options
 function getPasswordOptions() {
   var length = parseInt(
